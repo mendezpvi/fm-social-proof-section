@@ -33,6 +33,8 @@ Users should be able to:
 
 [Live Site URL](https://mendezpvi.github.io/fm-social-proof-section/) 👀
 
+[Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-with-css-nesting-E9iWbvX0GT) 👀
+
 [Challenges overcome](https://github.com/mendezpvi/frontend-mentor-challenges) 👀
 
 ## *Built with* :hammer_and_pick:
